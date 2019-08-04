@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MonstersReact/static/css/main.203a9163.chunk.css",
+    "main.js": "/MonstersReact/static/js/main.f7f2c1a1.chunk.js",
+    "main.js.map": "/MonstersReact/static/js/main.f7f2c1a1.chunk.js.map",
+    "runtime~main.js": "/MonstersReact/static/js/runtime~main.a7085db2.js",
+    "runtime~main.js.map": "/MonstersReact/static/js/runtime~main.a7085db2.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/MonstersReact/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/MonstersReact/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/MonstersReact/index.html",
+    "precache-manifest.527bad7668eaa38ed77b7d233f10f572.js": "/MonstersReact/precache-manifest.527bad7668eaa38ed77b7d233f10f572.js",
+    "service-worker.js": "/MonstersReact/service-worker.js",
+    "static/css/main.203a9163.chunk.css.map": "/MonstersReact/static/css/main.203a9163.chunk.css.map"
+  }
+}
